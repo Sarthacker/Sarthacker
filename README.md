@@ -1,5 +1,11 @@
-# 💫 About Me:
-# Hi, I'm Sarthak 👋  <br><br>🚀 Final-year Computer Science student at IIIT Lucknow  <br>🤖 Passionate about AI/ML, Deep Learning, and Backend Development  <br>💻 Skilled in Python, Django, TensorFlow, NLP, and Full-Stack projects  <br>📂 Sharing my projects, research, and experiments here on GitHub  <br><br>✨ Always learning, building, and contributing!  
+# Hi, I'm Sarthak 👋  
+
+🚀 Final-year Computer Science student at IIIT Lucknow  
+🤖 Passionate about AI/ML, Deep Learning, and Backend Development  
+💻 Skilled in Python, Django, TensorFlow, NLP, and Full-Stack projects  
+📂 Sharing my projects, research, and experiments here on GitHub  
+
+✨ Always learning, building, and contributing!  
 
 
 ## 🌐 Socials:
@@ -19,3 +25,4 @@
 [![](https://visitcount.itsvg.in/api?id=Sarthacker&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
