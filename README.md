@@ -1,5 +1,5 @@
 # Hi, I'm Sarthak 👋  
-<img align="right" alt="coding" width="310" height="590" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"/>
+<img align="right" alt="coding" width="310" height="500" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"/>
 
 🚀 Final-year Computer Science student at IIIT Lucknow  
 🤖 Passionate about AI/ML, Deep Learning, and Backend Development  
@@ -25,5 +25,6 @@
 [![](https://visitcount.itsvg.in/api?id=Sarthacker&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
 
 
