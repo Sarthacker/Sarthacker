@@ -4,9 +4,9 @@
 🚀 Final-year Computer Science student at IIIT Lucknow  
 🤖 Passionate about AI/ML, Deep Learning, and Backend Development  
 💻 Skilled in Python, Django, TensorFlow, NLP, and Full-Stack projects  
-📂 Sharing my projects, research, and experiments here on GitHub
-🧠 Exploring computer vision, generative models & reinforcement learning
-🔗 Always open to collaboration — I love working with devs & researchers
+📂 Sharing my projects, research, and experiments here on GitHub  
+🧠 Exploring computer vision, generative models & reinforcement learning  
+🔗 Always open to collaboration — I love working with devs & researchers  
 
 ✨ Always learning, building, and contributing!  
 
@@ -27,6 +27,7 @@
 [![](https://visitcount.itsvg.in/api?id=Sarthacker&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
 
 
 
