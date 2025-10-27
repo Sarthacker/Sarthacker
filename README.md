@@ -26,6 +26,8 @@
   <img alt="coding" width="310" height="620" src="https://assets.holopin.io/hf2025levels/lvl3-human.webp"/>
   <img alt="coding" width="310" height="620" src="https://assets.holopin.io/hf2025levels/lvl2-human.webp"/>
   <img alt="coding" width="310" height="620" src="https://assets.holopin.io/hf2025levels/lvl1-human.webp"/>
+  <img alt="coding" width="310" height="620" src="https://assets.holopin.io/hf2025levels/lvl0-human.webp"/>
 </p>
+
 
 
